@@ -1,12 +1,11 @@
 # Financial AI Agent
-This Python-based Financial AI Agent helps you manage your budget, provides investment advice, and offers tax guidance.  It uses a command-line interface (CLI) for interaction and stores your financial data in a JSON file.
+This innovative concept explores the potential of AI in personal finance management, demonstrating how technology could revolutionize the way we handle our money.
 
 ## Features
 * **Budget Management:** Set monthly budgets for different categories, track expenses, and view your budget status.
 * **Investment Advice:**  Provides personalized investment recommendations based on your risk tolerance, investment goals, and current market conditions.
 * **Tax Guidance:** Calculates estimated tax liability and offers tax-related advice, including potential deductions and credits.
 * **Financial Reporting:** Generates a comprehensive financial report summarizing your income, expenses, budget status, and personalized recommendations.
-* **Data Persistence:** Saves your financial data to a JSON file (`financial_data/financial_data.json`) so your information is retained between sessions.
 
 ## Installation
 
